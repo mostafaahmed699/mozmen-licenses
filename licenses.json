@@ -1,5 +1,4 @@
-{
-  "TEST-USER-1": {
+{    "TEST-USER-1": {
     "active": true,
     "devices": [],
     "max_devices": 1,
