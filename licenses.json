@@ -1,6 +1,7 @@
-{    "TEST-USER-1": {
+{
+  "TEST-USER-1": {
     "active": true,
-    "devices": [],
+    "devices": [1],
     "max_devices": 1,
     "expiry": "2026-01-01"
   }
