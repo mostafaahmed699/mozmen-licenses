@@ -1,8 +1,11 @@
 {
   "TEST-USER-1": {
     "active": true,
-    "devices": ["0xa08cfdc6e8c2"],
-    "max_devices": 1,
-    "expiry": "2025-12-08 00:00"
+    "devices": [
+      "0xa08cfdc6e8c2",
+      "0x3c6aa742957c"
+    ],
+    "max_devices": 2,
+    "expiry": "2025-12-08 00:39"
   }
 }
