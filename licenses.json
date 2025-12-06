@@ -1,8 +1,11 @@
 {
-  "TEST-USER-1": {
+  "USER123-KEY": {
     "active": true,
     "devices": [],
     "max_devices": 1,
     "expiry": "2026-01-01"
+  },
+  "TEST456": {
+    "active": false
   }
 }
