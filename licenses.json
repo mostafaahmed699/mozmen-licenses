@@ -1,9 +1,16 @@
 {
   "TEST-USER-1": {
+    "name": "اسم العميل",
     "active": true,
     "devices": [
-      "0xa08cfdc6e8c2",
-      "0x3c6aa742957c"
+      {
+        "id": "0xa08cfdc6e8c2",
+        "name": "جهاز المكتب"
+      },
+      {
+        "id": "0x3c6aa742957c",
+        "name": "لابتوب العميل"
+      }
     ],
     "max_devices": 2,
     "expiry": "2025-12-08 00:39"
