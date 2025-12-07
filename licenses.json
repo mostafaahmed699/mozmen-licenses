@@ -4,16 +4,12 @@
     "active": true,
     "devices": [
       {
-        "id": "0xa08cfdc6e8c2",
         "name": "جهاز المكتب",
-        "active": true,
-        "expiry": "2025-12-20 23:59"
+        "id": "0xa08cfdc6e8c2"
       },
       {
-        "id": "0x3c6aa742957c",
         "name": "لابتوب العميل",
-        "active": true,
-        "expiry": "2025-12-15 15:00"
+        "id": "0x3c6aa742957c"
       }
     ],
     "max_devices": 2,
