@@ -12,8 +12,8 @@
       {
         "name": "لابتوب العميل",
         "id": "0x3c6aa742957c",
-        "active": false,
-        "expiry": "2025-12-04 05:19"
+        "active": true,
+        "expiry": "2025-12-12 05:19"
       }
     ],
     "max_devices": 2,
