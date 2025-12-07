@@ -1,14 +1,22 @@
-"devices": [
-  {
-    "id": "0xa08cfdc6e8c2",
-    "name": "جهاز المكتب",
+{
+  "TEST-USER-1": {
+    "name": "اسم العميل هنا",
     "active": true,
-    "expiry": "2025-12-20 23:59"
-  },
-  {
-    "id": "0x3c6aa742957c",
-    "name": "لابتوب العميل",
-    "active": true,
-    "expiry": "2025-12-15 15:00"
+    "devices": [
+      {
+        "id": "0xa08cfdc6e8c2",
+        "name": "جهاز المكتب",
+        "active": true,
+        "expiry": "2025-12-20 23:59"
+      },
+      {
+        "id": "0x3c6aa742957c",
+        "name": "لابتوب العميل",
+        "active": true,
+        "expiry": "2025-12-15 15:00"
+      }
+    ],
+    "max_devices": 2,
+    "expiry": "2025-12-30 23:59"
   }
-]
+}
