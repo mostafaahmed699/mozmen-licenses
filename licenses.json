@@ -12,7 +12,7 @@
       {
         "name": "لابتوب العميل",
         "id": "0x3c6aa742957c",
-        "active": false,
+        "active": true,
         "expiry": "2025-12-02 02:19"
       }
     ],
