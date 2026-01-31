@@ -1,7 +1,7 @@
 {
   "TEST-USER-1": {
     "name": "اسم العميل هنا",
-    "active": true,
+    "active": false,
     "devices": [
       {
         "name": "جهاز المكتب",
